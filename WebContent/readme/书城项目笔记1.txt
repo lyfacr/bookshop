@@ -1,0 +1,12 @@
+1、创建了一个动态web项目，并且将 书城项目WebContent下的页面全部拷贝到WebContent内
+
+
+2、使用JS前端验证 注册页面提交的注册数据是否满足要求
+	pages/user/regist.html
+
+3、完成登录注册功能：  和数据库建立连接
+
+
+
+
+
